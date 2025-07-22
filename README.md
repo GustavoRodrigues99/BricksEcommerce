@@ -1,6 +1,6 @@
 # BricksStore
 
-<img width="1899" height="924" alt="image" src="https://github.com/user-attachments/assets/5509aa57-5f5a-41f2-a3ff-54b0e23d3b97" />
+![Exemplo](https://github.com/GustavoRodrigues99/BricksEcommerce/blob/main/frontend/public/468676879-5509aa57-5f5a-41f2-a3ff-54b0e23d3b97.png)
 
 ## Conteúdo
 
